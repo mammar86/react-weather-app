@@ -4,14 +4,13 @@ import "./styles/main.scss";
 
 function Main() {
   return (
-    <>
-      <div>
-        <form>
-          <input type="text"></input>
-          <button></button>
-        </form>
-      </div>
-    </>
+    <main>
+      <h3>Search Weather condition by city</h3>
+      <form>
+        <input type="text"></input>
+        <button type="submit"></button>
+      </form>
+    </main>
   );
 }
 

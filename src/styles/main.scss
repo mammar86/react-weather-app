@@ -1,0 +1,36 @@
+
+#root {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #edf7b0;
+  
+}
+
+main {
+ 
+  height: 50%;
+  width:50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  position: relative;
+  
+  h3 {
+    text-align: center;
+  }
+ 
+
+}
+
+
+
+
+form {
+  height: 40%;
+  
+
+}
